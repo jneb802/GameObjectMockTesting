@@ -124,8 +124,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Sec\Location.cs" />
-        <Compile Include="Sec\Plugin.cs" />
+        <Compile Include="Src\Location.cs" />
+        <Compile Include="Src\Plugin.cs" />
         <Compile Include="VersionHandshake.cs" />
     </ItemGroup>
     <ItemGroup>
